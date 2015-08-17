@@ -14,9 +14,7 @@ This is a list of notable JavaScript libraries.
 - Graphical/visualization (canvas or SVG related) 
 - GUI-related (widget) 
 - Pure JavaScript/Ajax 
-- 
-> [Template systems](#Template systems)
-
+- Template systems
 - Unit testing 
 - Web-application related (MVC, MVVM) 
 
