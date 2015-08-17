@@ -18,6 +18,8 @@ This is a list of notable JavaScript libraries.
 - Unit testing 
 - Web-application related (MVC, MVVM) 
 
+> [Contributing](#contributing)
+
 ## DOM (manipulation) Oriented <a id="DOM-\(manipulation\)-Oriented"></a>
 
 - Dojo Toolkit <a href="http://dojotoolkit.org/" target="_blank">(Website,</a> <a href="https://github.com/dojo" target="_blank">GitHub)</a>
@@ -116,3 +118,6 @@ This is a list of notable JavaScript libraries.
 
 - Modernizr <a href="http://modernizr.com/" target="_blank">(Website,</a> <a href="https://github.com/Modernizr/Modernizr" target="_blank">GitHub)</a>
 
+# Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
